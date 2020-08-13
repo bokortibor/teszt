@@ -1,4 +1,4 @@
-baseurl                  = "https://example.com"           # Your domain name
+baseurl                  = "https://friendly-lumiere-d50fc0.netlify.app/"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
